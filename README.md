@@ -1,5 +1,5 @@
 # Data Extraction:
-Fetche HTML content from any given URL, allowing flexibility to use URLs from sources like Wikipedia or any other web page containing relevant text data. <br \>
+Fetche HTML content from any given URL, allowing flexibility to use URLs from sources like Wikipedia or any other web page containing relevant text data. <br />
 Using Python libraries like requests and BeautifulSoup, the script extracts text from HTML elements such as paragraphs or headings etc.
 
 # Processing Steps:
