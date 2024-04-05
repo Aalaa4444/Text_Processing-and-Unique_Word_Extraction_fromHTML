@@ -2,7 +2,7 @@
 Fetch HTML content from any given URL, allowing flexibility to use URLs from sources like Wikipedia or any other web page containing relevant text data. <br />
 Using Python libraries like requests and BeautifulSoup, the script extracts text from HTML elements such as paragraphs, headings, etc.
 
-# Processing Steps:
+# Text Processing Steps:
 1. Cleaning Data: Eliminates any symbols or characters that are not relevant to the text content.
 2. Normalization: Converts all text to lowercase to ensure uniformity for subsequent processing steps.
 3. Tokenization: Splits the text into individual words or tokens, facilitating further analysis.
